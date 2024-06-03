@@ -15,6 +15,6 @@ We follow the basic machine learning model steps:
 
 To finish off, I have created a user-friendly interface that allows you to enter a mail body of your choice, and the model predicts if it is a Ham mail or a Spam mail. This project is highly beginner-friendly, so I would appreciate all my Machine Learning enthusiasts to have a look at this.
 
-Dataset: [we.xyz](https://drive.google.com/file/d/1uzbhec5TW_OjFr4UUZkoMm0rpyvYdhZw/view)
+Dataset: https://drive.google.com/file/d/1uzbhec5TW_OjFr4UUZkoMm0rpyvYdhZw/view
 
 # Happy Learning!
